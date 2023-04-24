@@ -8,4 +8,8 @@ module D0ne1sHelloWorld
   def self.hello
     "Hello World"
   end
+
+  def self.hello_from_command_line
+    puts "Hello from command line!"
+  end
 end
