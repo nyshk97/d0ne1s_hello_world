@@ -1,0 +1,3 @@
+require_relative '../lib/d0ne1s_hello_world'
+
+D0ne1sHelloWorld.hello_from_command_line
